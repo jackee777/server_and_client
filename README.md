@@ -24,7 +24,7 @@ The dummy_device is the alternative that you want to record the value. For examp
 The questionaire is the input of keyboard that I correspond to 4 values: good, bad, normal, reject.
 The server is similar to the upper one; however it controlles the shutdown timing by another thread.
 
-
+## 余談
 マルチスレッドサーバとクライアントのひな形です。また，その拡張の方向性として他のプログラムも置いておきます。
 2018/11/29 時点で，python-3.5 上での全ての動作を確認済み。
 
